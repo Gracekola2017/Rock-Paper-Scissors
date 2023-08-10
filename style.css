@@ -1,0 +1,37 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 20px;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+.player {
+    display: inline-block;
+    margin: 20px;
+}
+
+.choice {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#result {
+    margin: 20px;
+    font-size: 25px;
+}
+
+#score {
+    margin: 20px;
+}
+
+#reset {
+    margin: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
